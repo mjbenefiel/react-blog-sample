@@ -2,7 +2,7 @@
 title: "Tag not firing on site, but firing locally"
 description: This post is related to the gatsbyjs
 date: '2019-05-18'
-image: '#'
+image: ''
 ---
 ## Ticket # 56370 (partially complete) - Tag not firing on site, but firing locally
 Problem: First part of this problem is the client's 4cite tag is not firing on their site; however, it's firing on my localhost.
