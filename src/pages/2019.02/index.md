@@ -1,7 +1,7 @@
 ---
 title: "Trouble logging in through SSO"
 description: This post is related to the gatsbyjsa
-date: '2019-05-18'
+date: '2019-05-17'
 image: 'time.jpg'
 ---
 ## Ticket # 56414 - Trouble logging in through SSO
