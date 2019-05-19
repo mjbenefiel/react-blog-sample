@@ -1,6 +1,6 @@
 ---
 title: "Trouble logging in through SSO"
-description: This post is related to the gatsbyjs
+description: This post is related to the gatsbyjsa
 date: '2019-05-18'
 image: 'time.jpg'
 ---
