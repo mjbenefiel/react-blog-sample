@@ -10,7 +10,8 @@ Problem: First part of this problem is the client's 4cite tag is not firing on t
 Troubleshooting
 <p>
     - Check to see if the tag is set to "all pages" load rules, and if it's bundled.
-        - To check if "all pages" are bundled, click save/publish > configure publish settings > Bundle tags loading on all pages
+ <p>       
+    - To check if "all pages" are bundled, click save/publish > configure publish settings > Bundle tags loading on all pages
 <p>
     - If it's bundled, you can check to see if the tag is firing in the utag.js, by going to the sources tab in DevTools
 <p>
