@@ -5,7 +5,7 @@ date: '2019-05-17'
 image: 'sunset.jpg'
 ---
 ## COH Project - Setting up Floodlight and FB Pixel tags / event calls
-To do: Set up Flooglidhg and FB pixel tags / event calls
+To do: Set up Floodlight and FB pixel tags / event calls
 
 Troubleshooting
 <p>

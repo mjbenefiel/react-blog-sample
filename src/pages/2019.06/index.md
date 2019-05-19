@@ -24,5 +24,5 @@ Troubleshooting
     - Next, go to TiQ and open up the source code of the client's outdated tag. You can do this by clicking/opening the tag row and then clicking on the UID. From there, you will need to copy/paste the u.map object and u.extend IIFE into your version that's being locally hosted. Make sure to leave come custom comments on top so you can ID if the tag is being mapped correctly. 
 <p>
     - In Charles, map that file to the hostname declared in Charles. At this point, you should see the updated tag running in the sources tab. If it's not being picked up by FB pixel helper, or in the networks tab, then the client will most likely need to remove the hardcoded tag. 
-
-
+<p>
+   - <b>When running Charles, make sure localhost is shut down. If not, conflicts will occur and Charles / local mapping will not work as expected</b>
