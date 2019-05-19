@@ -8,7 +8,6 @@ image: 'time.jpg'
 Problem: Client can't login to FreshDesk through with their SSO credentials
 
 Troubleshooting
-
     - Make sure they are logging in through their portal or the SSO login portal located on the Tealium login pages
 
     - Are their SSO and Tealium IQ emails the same?
