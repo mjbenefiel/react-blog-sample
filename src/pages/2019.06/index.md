@@ -26,3 +26,5 @@ Troubleshooting
     - In Charles, map that file to the hostname declared in Charles. At this point, you should see the updated tag running in the sources tab. If it's not being picked up by FB pixel helper, or in the networks tab, then the client will most likely need to remove the hardcoded tag. 
 <p>
    - <b>When running Charles, make sure localhost is shut down. If not, conflicts will occur and Charles / local mapping will not work as expected</b>
+
+
