@@ -11,6 +11,6 @@ Troubleshooting
 <p>
     - If a mousedown is conflicting with another event, try switching to onClick. This worked during an issue where mousedown should've been operating as you'd expect, but wasn't.
 <p>
-  \
+  
 
 
